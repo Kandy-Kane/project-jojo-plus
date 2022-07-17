@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "480589602333",
+    "firebase_url": "https://project-jojo-b4d8b.firebaseio.com",
+    "project_id": "project-jojo-b4d8b",
+    "storage_bucket": "project-jojo-b4d8b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:480589602333:android:d5fe148f01d8d4a18330f4",
+        "android_client_info": {
+          "package_name": "com.kandykane.project_stands"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "480589602333-c7i9i6bmt8lmobthu1gama6thpht5o4l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqx0IqT2izuXWiX3h9Jjhfr7MqyquF1nM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "480589602333-c7i9i6bmt8lmobthu1gama6thpht5o4l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
