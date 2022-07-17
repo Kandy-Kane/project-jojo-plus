@@ -1,8 +1,8 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.stands3">
+    package="com.kandykane.project_stands">
     <uses-permission android:name="android.permission.INTERNET"/>
    <application
-        android:label="stands3"
+        android:label="project_stands"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity
